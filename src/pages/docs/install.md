@@ -25,7 +25,7 @@ The launcher will now start the process of installing the client files.
 
 ### I just want to update / I already have BO2 installed?
 
-If you already have the game installed from steam or had a previous update of Plutonium then you can skip the below section and move onto the **[Installing DLC](#installing-t6-dlc)** section.
+If you already have the game installed from steam or had a previous update of Plutonium then you can skip the below section and move onto the **[Installing DLC](#installing-the-dlcs-bo2)** section.
 
 ### Installing the base game (BO2)
 
